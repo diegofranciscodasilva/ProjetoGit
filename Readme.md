@@ -1,2 +1,3 @@
 Olá, começando a usar o Git, let´s go !
 começando alteração no arquivo...
+está ficando bom !
